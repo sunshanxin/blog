@@ -1,2 +1,3 @@
 # blog
-我的博客
+
+点击 https://sunshanxin.github.io/blog/
